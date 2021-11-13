@@ -9,13 +9,15 @@ The purpose to create this token is to promote mountain biking in cryptocurrency
 
 ## Goal
 
-Our goal is to repeat success of top shitcoins like Dogecoin and Shiba Inu. This is our way to dive this sport discipline into mainstream. We believe that in cryptocurrency world we may compete with bigmarket players starting from scratch.
+Our goal is to repeat success of top shitcoins like Dogecoin and Shiba Inu. This is our way to dive this sport discipline into mainstream. We believe we may compete with big whales in cryptocurrency world.
 
 Ride to the moon and far away. :rocket:
 
 ## Mission
 
-There are many health benefits of mountain biking. Regular exercise improve cardiovascular fitness. British scientists studied 10 000 riders and proved that riding bike 30 km per week decreased coronary heart disease by 50%. Compared to running, you put less stress on your joints. You improve your immune systems. Your colleagues who commute via car or public transport get sick more often! It has been also proven that cycling builds brain cells in the hippocampus that is responsible for memory.
+There are many health benefits of mountain biking. Regular exercise improve cardiovascular fitness. British scientists studied 10 000 riders and proved that riding bike 30 km per week decreased coronary heart disease by 50%.
+
+You improve your immune systems. Your colleagues who commute via car or public transport get sick more often! It has been also proven that cycling builds brain cells in the hippocampus that is responsible for memory.
 
 Why to infect at gym if you can enjoy nature far from highways and busy urban environment? :sun_with_face:
 
@@ -48,11 +50,13 @@ _Source: based on chart on investing.com for ATH day_
 
 ## Liquidity
 
-COVID-19 pandemic increased demand for mountain bikes. People moved from public transport to bicycles. Due to closed gyms they switched to outdoor activities and mountain biking became more attractive. However, manufacturers were not prepared for such high boom. Moreover, many factories got shut down due to false predictions of banning sports outside. That disrupted supply chains.
+COVID-19 pandemic increased demand for mountain bikes. People moved from public transport to bicycles. Due to closed gyms they switched to outdoor activities and mountain biking became more attractive.
+
+Unfortunately, manufacturers were not prepared for such high boom. Moreover, many factories got shut down due to false predictions of banning sports outside. That disrupted supply chains.
 
 If you have been to a bike store recently, you’ve probably seen empty shelfs and a few bikes inside and you haven't found what you needed. Bicycle waiting list has been filling up with disappointed customer names. Shortages may last until 2022 and even 2023.
 
-Why don't they increase production? Due to next false belief that society will return to fitness clubs and public transport.
+Why don't they increase production? Due to next false belief that society will return to fitness clubs and buses.
 
 That's about liquidity. Invest in MTB token, provide liquidity and profit! :money_with_wings:
 
@@ -91,9 +95,13 @@ Cryptocurrency world is unique. You may make high profits but you may also lose 
 
 ## Further plans
 
-Imagine afterpandemic world where you work from home and in the evening you get on the bike and earn money for every mile. We know how to make it real. This will take months or years to build such DeFi system. You could easily transfer your effort to charity.
+Imagine afterpandemic world where you work from home and in the evening you get on the bike and earn money for every mile. We know how to make it real. This will take months or years to build such DeFi system.
 
-We'll discuss this idea within crypto community. For now get this BEP-20 token and enjoy trading!
+You could easily transfer your cycling effort to charity.
+
+We'll discuss this idea within crypto community.
+
+For now get this BEP-20 token and enjoy trading!
 
 ## Final thoughts
 
