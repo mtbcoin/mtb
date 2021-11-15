@@ -78,7 +78,11 @@ We decided to deploy our token into BSC network due much lower transaction fees 
 2. [Configure Binance Smart Chain in MetaMask](https://academy.binance.com/pl/articles/connecting-metamask-to-binance-smart-chain)
 3. Buy some BNB tokens on Binance
 4. Transfer BNB tokens into MetaMask
-5. Swap BNB with MTB on DeFi exchanges like PancakeSwap
+5. Go to PancakeSwap DeFi exchange
+6. Swap BNB into WBNB (Wrapped BNB)
+7. Swap WBNB into MTB (Mountain Bike)
+
+WBNB has the same price as BNB but is BEP-20 compatible.
 
 ## Social Media
 
@@ -86,6 +90,8 @@ We decided to deploy our token into BSC network due much lower transaction fees 
 | ------------ | --- |
 | Twitter | [@MtbCrypto](https://twitter.com/MtbCrypto) |
 | Telegram | [mtb_crypto](https://t.me/mtb_crypto) |
+| Pinterest | [mtbcoin](https://www.pinterest.com/mtbcoin/mtb-bep-20-token/) |
+| Reddit | [r/mtbcoin](https://www.reddit.com/r/mtbcoin/) |
 | Discord | coming soon |
 | TikTok | coming soon |
 
