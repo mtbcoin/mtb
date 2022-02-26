@@ -29,7 +29,6 @@ Our mission is to:
 * improve urban infrastructure for cyclists
 * show better way to spend free time
 * promote sport competition
-* fix your mood :smiley:
 
 ## Safety
 
@@ -103,12 +102,4 @@ Cryptocurrency world is unique. You may make high profits but you may also lose 
 
 Imagine afterpandemic world where you work from home and in the evening you get on the bike and earn money for every mile. We know how to make it real. This will take months or years to build such DeFi system.
 
-You could easily transfer your cycling effort to charity.
-
-We'll discuss this idea within crypto community.
-
 For now get this BEP-20 token and enjoy trading!
-
-## Final thoughts
-
-Get on the bike and start exploring. :cactus: :mushroom: :blossom: 
